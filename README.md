@@ -2,7 +2,7 @@
 
 ##  About Me
 
- - Technical Lead at <a href="https://grayquest.com/" target="_blank">GrayQuest Education Finance</a>.
+ - Vice President of Engineering at <a href="https://grayquest.com/" target="_blank">GrayQuest Education Finance</a>.
  - Currently Working on Automated Workflows for Fintech Businesses.
  - I usually code in Python, Php, Go, ReactJs
  - Find me blogging on :point_down:
